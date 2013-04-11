@@ -32,6 +32,6 @@ public class MainActivity extends Activity {
 >>>>>>> hehehe
 	
 	public static int getNbr(String a){
-		return 1;
+		return 2;
 	}
 }
