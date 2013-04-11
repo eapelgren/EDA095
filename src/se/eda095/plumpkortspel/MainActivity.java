@@ -22,10 +22,16 @@ public class MainActivity extends Activity {
 	public static void main (String args[]){
 		System.out.println("test2hej");
 	}
+<<<<<<< HEAD
 	
 	public void test() {
 		
 	}
 
+=======
+>>>>>>> hehehe
 	
+	public static int getNbr(String a){
+		return 1;
+	}
 }
