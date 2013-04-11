@@ -1,3 +1,4 @@
+package se.eda095.plumpkortspel;
 /**
  * Represents a playing card.
  * 

@@ -1,3 +1,5 @@
+package se.eda095.plumpkortspel;
+
 import java.util.Random;
 
 /**
