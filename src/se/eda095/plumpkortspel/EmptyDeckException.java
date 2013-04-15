@@ -1,3 +1,5 @@
+package se.eda095.plumpkortspel;
+
 /**
  * Thrown when there is an attempt to access an empty deck.
  */

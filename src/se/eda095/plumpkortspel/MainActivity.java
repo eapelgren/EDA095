@@ -3,6 +3,8 @@ package se.eda095.plumpkortspel;
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
+import android.view.TextureView;
+import android.widget.TextView;
 
 public class MainActivity extends Activity {
 
@@ -10,6 +12,8 @@ public class MainActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
+		TextView textView = (TextView) findViewById(R.id.stringTest); 
+		textView.setText("NY TEXT");
 	}
 
 	@Override
